@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Sistema Universitario\Sistema Universitario\bin\Debug\Sistema Universitario.exe.config
+C:\Users\Usuario\source\repos\Sistema Universitario\Sistema Universitario\bin\Debug\Sistema Universitario.exe
+C:\Users\Usuario\source\repos\Sistema Universitario\Sistema Universitario\bin\Debug\Sistema Universitario.pdb
+C:\Users\Usuario\source\repos\Sistema Universitario\Sistema Universitario\obj\Debug\Sistema Universitario.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sistema Universitario\Sistema Universitario\obj\Debug\Sistema_Universitario.Form1.resources
+C:\Users\Usuario\source\repos\Sistema Universitario\Sistema Universitario\obj\Debug\Sistema_Universitario.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Sistema Universitario\Sistema Universitario\obj\Debug\Sistema Universitario.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Sistema Universitario\Sistema Universitario\obj\Debug\Sistema Universitario.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sistema Universitario\Sistema Universitario\obj\Debug\Sistema Universitario.exe
+C:\Users\Usuario\source\repos\Sistema Universitario\Sistema Universitario\obj\Debug\Sistema Universitario.pdb
